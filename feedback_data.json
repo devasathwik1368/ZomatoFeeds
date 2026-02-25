@@ -1,1 +1,74 @@
-
+[
+{
+"ProductID": "SHIRT_001",
+"Rating": 5,
+"ReviewText": "The material is soft, and it arrived quickly! Great quality and value.",
+"PurchaseDate": "2023-11-01"
+},
+{
+"ProductID": "SHOES_005",
+"Rating": 1,
+"ReviewText": "Totally disappointed. The sole tore easily after one week. Cheap material and awful customer service.",
+"PurchaseDate": "2024-01-15"
+},
+{
+"ProductID": "HAT_010",
+"Rating": 4,
+"ReviewText": "Nice fit, but the sizing chart was tricky. The shipping was surprisingly fast, though.",
+"PurchaseDate": "2024-03-20"
+},
+{
+"ProductID": "SHIRT_001",
+"Rating": 2,
+"ReviewText": "Too small, the sizing is totally wrong! I must return it, and the return process seems slow.",
+"PurchaseDate": "2024-04-05"
+},
+{
+"ProductID": "SHOES_005",
+"Rating": 5,
+"ReviewText": "Excellent shoes! They are very durable and I love the color. They arrived well packaged.",
+"PurchaseDate": "2024-05-10"
+},
+{
+"ProductID": "SHOES_005",
+"Rating": 1,
+"ReviewText": "The plastic quality is terrible. I waited long for a response from the service team. Never buy again!",
+"PurchaseDate": "2024-06-25"
+},
+{
+"ProductID": "JACKET_022",
+"Rating": 5,
+"ReviewText": "Best jacket ever! Fits perfect and the soft fabric is amazing.",
+"PurchaseDate": "2024-07-01"
+},
+{
+"ProductID": "JACKET_022",
+"Rating": 4,
+"ReviewText": "Great quality and true to size. Delivery was delayed by one day.",
+"PurchaseDate": "2024-07-15"
+},
+{
+"ProductID": "HAT_010",
+"Rating": 3,
+"ReviewText": "It's fine. Neutral experience. Nothing special, but it serves its purpose.",
+"PurchaseDate": "2024-08-01"
+},
+{
+"ProductID": "SHIRT_001",
+"Rating": 3,
+"ReviewText": "The shirt is a bit tight but wearable. Customer service was helpful when I asked about exchanges.",
+"PurchaseDate": "2024-08-10"
+},
+{
+"ProductID": "JACKET_022",
+"Rating": 1,
+"ReviewText": "This is heartbreaking. I ordered a 3XL and it was still too small. Terrible sizing!",
+"PurchaseDate": "2024-09-01"
+},
+{
+"ProductID": "SHOES_005",
+"Rating": 4,
+"ReviewText": "Good shoes, but the tracking was confusing.",
+"PurchaseDate": "2024-09-15"
+}
+]
