@@ -210,7 +210,7 @@ elif option == "Analytics":
                     <div style="text-align: right; font-size: 10px; color: #777;">{time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(row['time']))}</div>
                 </div>
             ''', unsafe_allow_html=True)
-z
+
 
 
 
